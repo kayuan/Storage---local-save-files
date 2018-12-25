@@ -1,4 +1,4 @@
-# Storage---local-save-files
+# Storage Application
 
 This is an application that stores files or folders.
 Users can easily transfer files to Storage via Itunes, and Storage will help you organize your files.
