@@ -1,0 +1,66 @@
+// Header --------------------------------------------------------------------------------------------------------------
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "LYr-s6-ord"; */
+"LYr-s6-ord.title" = "Einstellungen";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "tkY-9o-8sv"; */
+"tkY-9o-8sv.normalTitle" = "Fertig";
+
+// Box General ---------------------------------------------------------------------------------------------------------
+
+/* Class = "UILabel"; text = "General"; ObjectID = "HdY-Hn-pk5"; */
+"HdY-Hn-pk5.text" = "Allgemein";
+
+/* Class = "UILabel"; text = "Dark mode"; ObjectID = "kUv-XM-3oM"; */
+"kUv-XM-3oM.text" = "Dunkler Modus";
+
+/* Class = "UILabel"; text = "Unit for file sizes"; ObjectID = "yne-bO-aN8"; */
+"yne-bO-aN8.text" = "Dateigröße Einheit";
+
+/* Class = "UISegmentedControl"; uNE-aV-wVm.segmentTitles[4] = "all"; ObjectID = "uNE-aV-wVm"; */
+"uNE-aV-wVm.segmentTitles[4]" = "alle";
+
+/* Class = "UILabel"; text = "Animate value update"; ObjectID = "mOh-Vs-H8g"; */
+"mOh-Vs-H8g.text" = "Update der Werte animieren";
+
+// Box Tab Overview ----------------------------------------------------------------------------------------------------
+
+/* Class = "UILabel"; text = "Tab Overview"; ObjectID = "mdg-qv-XQN"; */
+"mdg-qv-XQN.text" = "Tab Übersicht";
+
+/* Class = "UILabel"; text = "Ask before emptying the Trash"; ObjectID = "Qlo-A2-wdU"; */
+"Qlo-A2-wdU.text" = "Vor Papierkorb leeren fragen";
+
+/* Class = "UILabel"; text = "File/storage management help"; ObjectID = "1tq-PU-73E"; */
+"1tq-PU-73E.text" = "Zeige 'Datei- & Speicher-Management' Abschnitt";
+
+// Box In-App Purchases ------------------------------------------------------------------------------------------------
+
+/* Class = "UILabel"; text = "In-App Purchases"; ObjectID = "mE1-3m-jpW"; */
+"mE1-3m-jpW.text" = "In-App-Käufe";
+
+/* Class = "UIButton"; normalTitle = "Tip Small; ObjectID = "v4H-yh-GXs"; */
+"v4H-yh-GXs.normalTitle" = "Trinkgeld klein";
+
+/* Class = "UIButton"; normalTitle = "Tip Meidum; ObjectID = "Lkf-eT-cEj"; */
+"Lkf-eT-cEj.normalTitle" = "Trinkgeld mittel";
+
+/* Class = "UIButton"; normalTitle = "Tip Big; ObjectID = "IHJ-qo-bEV"; */
+"IHJ-qo-bEV.normalTitle" = "Trinkgeld groß";
+
+// Footer --------------------------------------------------------------------------------------------------------------
+
+/* Class = "UIButton"; normalTitle = "Rate App"; ObjectID = "L60-lt-4lK"; */
+"L60-lt-4lK.normalTitle" = "App bewerten";
+
+/* Class = "UIButton"; normalTitle = "Website"; ObjectID = "ufj-Ws-q7C"; */
+"ufj-Ws-q7C.normalTitle" = "Website";
+
+/* Class = "UIButton"; normalTitle = "GitHub"; ObjectID = "BHR-Pn-638"; */
+"BHR-Pn-638.normalTitle" = "GitHub";
+
+/* Class = "UIButton"; normalTitle = "License; ObjectID = "4y3-9G-MtY"; */
+"4y3-9G-MtY.normalTitle" = "Lizenz";
+
+/* Class = "UIButton"; normalTitle = "Privacy"; ObjectID = "ZTU-FW-0kz"; */
+"ZTU-FW-0kz.normalTitle" = "Datenschutz";
